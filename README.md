@@ -1,5 +1,3 @@
-## Aula de GIT 
-Esse é o meu primeiro repositorio criado no terminal. Apredi tudo nessa aula
+## Aula de git 2
 
-## Minha opinião
-Foi foda
+## Aprendendo coisas novas
